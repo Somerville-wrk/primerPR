@@ -1,2 +1,2 @@
 Contenido del segundo archivo
-Otra linea
+Otra línea
